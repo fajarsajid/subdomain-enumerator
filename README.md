@@ -30,7 +30,7 @@ $ python3 subdomain_enum.py --domain github.com
 ...
 ✅ Scan complete. 9 subdomain(s) found.
 ``` 
-⚙️ Usage
+## ⚙️ Usage
 ```bash
 python3 subdomain_enum.py --domain example.com
 
@@ -38,20 +38,20 @@ Use a custom wordlist (optional):
 python3 subdomain_enum.py --domain example.com --wordlist my_custom_list.txt
 
 ```
-📁 Files
+## 📁 Files
 subdomain_enum.py – Main Python script
 
 subdomains.txt – Default wordlist
 
 requirements.txt – Library dependencies (requests)
 
-📦 Installation
+## 📦 Installation
 Make sure requests is installed:
 ```bash
 
 pip install -r requirements.txt
 ```
-👨‍💻 Author
+## 👨‍💻 Author
 Fajar Sajid
 Cybersecurity & Python Enthusiast
 GitHub Profile
