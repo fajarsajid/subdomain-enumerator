@@ -29,7 +29,20 @@ $ python3 subdomain_enum.py --domain github.com
 [+] Found: https://www.github.com (200)
 ...
 ✅ Scan complete. 9 subdomain(s) found.
-``` 
+```
+## 🚀 Getting Started
+ Installation & Setup
+1. Clone the repository
+Open your terminal and run:
+```bash
+git clone https://github.com/fajarsajid/subdomain-enumerator.git
+cd subdomain-enumerator
+```
+2. Install the required packages
+Use pip to install dependencies:
+```bash
+pip3 install -r requirements.txt
+```
 ## ⚙️ Usage
 ```bash
 python3 subdomain_enum.py --domain example.com
