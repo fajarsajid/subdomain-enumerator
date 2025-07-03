@@ -29,3 +29,21 @@ $ python3 subdomain_enum.py --domain github.com
 [+] Found: https://www.github.com (200)
 ...
 ✅ Scan complete. 9 subdomain(s) found.
+⚙️ Usage
+python3 subdomain_enum.py --domain example.com
+python3 subdomain_enum.py --domain example.com --wordlist mylist.txt
+📁 Files
+subdomain_enum.py – Main Python script
+
+subdomains.txt – Default wordlist
+
+requirements.txt – Library dependencies (requests)
+
+📦 Installation
+Make sure requests is installed:
+
+pip install -r requirements.txt
+👨‍💻 Author
+Fajar Sajid
+Cybersecurity & Python Enthusiast
+GitHub Profile
