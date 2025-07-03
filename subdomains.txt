@@ -1,0 +1,14 @@
+www
+mail
+ftp
+api
+dev
+test
+portal
+admin
+blog
+shop
+docs
+gist
+support
+help
