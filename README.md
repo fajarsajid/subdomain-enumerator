@@ -33,7 +33,10 @@ $ python3 subdomain_enum.py --domain github.com
 ⚙️ Usage
 ```bash
 python3 subdomain_enum.py --domain example.com
-python3 subdomain_enum.py --domain example.com --wordlist mylist.txt
+
+Use a custom wordlist (optional):
+python3 subdomain_enum.py --domain example.com --wordlist my_custom_list.txt
+
 ```
 📁 Files
 subdomain_enum.py – Main Python script
